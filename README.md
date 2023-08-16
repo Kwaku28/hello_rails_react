@@ -97,10 +97,11 @@ To create the database, run:
 ```sh
 rails db:create
 ```
-To create/update the schema, run:
+To create/update the schema/database, run:
 
 ```sh
 rails db:migrate
+rails db:seed
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
